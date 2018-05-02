@@ -1,0 +1,5 @@
+ruby-xmlrpc (0.3.0-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Antonio Terceiro <terceiro@debian.org>  Sat, 31 Mar 2018 15:03:47 -0300
