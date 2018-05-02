@@ -1,3 +1,9 @@
+ruby-xmlrpc (0.3.0-1~bionic0+exo1) bionic; urgency=medium
+
+  * Backport to Bionic.
+
+ -- Vincent Bernat <bernat@debian.org>  Wed, 02 May 2018 14:39:55 +0200
+
 ruby-xmlrpc (0.3.0-1) unstable; urgency=medium
 
   * Initial release
